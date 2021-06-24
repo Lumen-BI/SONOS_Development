@@ -1,0 +1,290 @@
+{
+  "DM.db::DSDS4000002": {
+    "target": {
+      "object": "/1LT/DSDS4000002",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000003": {
+    "target": {
+      "object": "/1LT/DSDS4000003",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000004": {
+    "target": {
+      "object": "/1LT/DSDS4000004",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000005": {
+    "target": {
+      "object": "/1LT/DSDS4000005",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000006": {
+    "target": {
+      "object": "/1LT/DSDS4000006",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000007": {
+    "target": {
+      "object": "/1LT/DSDS4000007",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000008": {
+    "target": {
+      "object": "/1LT/DSDS4000008",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000009": {
+    "target": {
+      "object": "/1LT/DSDS4000009",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000010": {
+    "target": {
+      "object": "/1LT/DSDS4000010",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000011": {
+    "target": {
+      "object": "/1LT/DSDS4000011",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000012": {
+    "target": {
+      "object": "/1LT/DSDS4000012",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000013": {
+    "target": {
+      "object": "/1LT/DSDS4000013",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000014": {
+    "target": {
+      "object": "/1LT/DSDS4000014",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000015": {
+    "target": {
+      "object": "/1LT/DSDS4000015",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000016": {
+    "target": {
+      "object": "/1LT/DSDS4000016",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000017": {
+    "target": {
+      "object": "/1LT/DSDS4000017",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000018": {
+    "target": {
+      "object": "/1LT/DSDS4000018",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000109": {
+    "target": {
+      "object": "/1LT/DSDS4000109",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000110": {
+    "target": {
+      "object": "/1LT/DSDS4000110",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::SSRMA_TOGGLES": {
+    "target": {
+      "object": "SSRMA_TOGGLES",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000149": {
+    "target": {
+      "object": "/1LT/DSDS4000149",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000150": {
+    "target": {
+      "object": "/1LT/DSDS4000150",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::SKU_MSRP_By_Currency": {
+    "target": {
+      "object": "SKU_MSRP_By_Currency",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000177": {
+    "target": {
+      "object": "/1LT/DSDS4000177",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000178": {
+    "target": {
+      "object": "/1LT/DSDS4000178",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000180": {
+    "target": {
+      "object": "/1LT/DSDS4000180",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::GP_IV00103": {
+    "target": {
+      "object": "GP_IV00103",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::GP_IV41100": {
+    "target": {
+      "object": "GP_IV41100",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::GP_IV41102": {
+    "target": {
+      "object": "GP_IV41102",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000183": {
+    "target": {
+      "object": "/1LT/DSDS4000183",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000185": {
+    "target": {
+      "object": "/1LT/DSDS4000185",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000186": {
+    "target": {
+      "object": "/1LT/DSDS4000186",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::GP_Valid_Items": {
+    "target": {
+      "object": "GP_Valid_Items",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000609": {
+    "target": {
+      "object": "/1LT/DSDS4000609",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000610": {
+    "target": {
+      "object": "/1LT/DSDS4000610",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000611": {
+    "target": {
+      "object": "/1LT/DSDS4000611",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000612": {
+    "target": {
+      "object": "/1LT/DSDS4000612",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000612_T": {
+    "target": {
+      "object": "DSDS4000612_T",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000548": {
+    "target": {
+      "object": "/1LT/DSDS4000548",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000549": {
+    "target": {
+      "object": "/1LT/DSDS4000549",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000550": {
+    "target": {
+      "object": "/1LT/DSDS4000550",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000555": {
+    "target": {
+      "object": "/1LT/DSDS4000555",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000556": {
+    "target": {
+      "object": "/1LT/DSDS4000556",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000559": {
+    "target": {
+      "object": "/1LT/DSDS4000559",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000560": {
+    "target": {
+      "object": "/1LT/DSDS4000560",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000561": {
+    "target": {
+      "object": "/1LT/DSDS4000561",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::DSDS4000562": {
+    "target": {
+      "object": "/1LT/DSDS4000562",
+      "schema": "DEV_CONV_USER"
+    }
+  },
+  "DM.db::MAT_FUT": {
+    "target": {
+      "object": "MAT_FUT",
+      "schema": "DEV_CONV_USER"
+    }
+  }
+}

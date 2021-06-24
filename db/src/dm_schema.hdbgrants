@@ -1,0 +1,14 @@
+{
+  "dm-grant-service": {
+        "object_owner": {
+            "roles": [
+                "dm_with_grant::external_access_g"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "dm_without_grant::external_access"
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+ID: DM
+_schema-version: '2.1'
+version: 0.0.1
+
+modules:
+ - name: db
+   type: hdb
+   path: db
+   requires:
+    - name: hdi_db
+      properties:
+        TARGET_CONTAINER: '~{hdi-container-name}'
+    - name: grant-service
+    - name: dm-grant-service
+resources:
+ - name: hdi_db
+   properties:
+      hdi-container-name: ${service-name}
+   type: com.sap.xs.hdi-container
+
+ - name: grant-service
+   type: org.cloudfoundry.existing-service
+   parameters:
+      service-name: grant-service
+      
+ - name: dm-grant-service
+   type: org.cloudfoundry.existing-service
+   parameters:
+      service-name: dm-grant-service
